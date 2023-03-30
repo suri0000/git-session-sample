@@ -6,8 +6,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello")
-            Text("Commit!")
+            Text("Hello, world!")
+            Text("Commit!!!!")
         }
     }
 }
