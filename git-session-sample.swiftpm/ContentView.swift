@@ -8,6 +8,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("Commit!")
+            Text("Commit!!")
         }
     }
 }
